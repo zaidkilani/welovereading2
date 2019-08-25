@@ -7,3 +7,8 @@
 	path = zaidkilani/welovereading1
 	url = git@github.com:zaidkilani/welovereading.git
 	branch = 123
+
+[submodule "zaidkilani/welovereading3"]
+	path = zaidkilani/welovereading3
+	url = git@github.com:zaidkilani/welovereading.git
+	branch = app-product_stock_balance
