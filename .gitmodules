@@ -32,3 +32,8 @@
 	path = zaidkilani/welovereading66
 	url = git@github.com:zaidkilani/welovereading.git
 	branch = master
+
+[submodule "zaidkilani/welovereading221"]
+	path = zaidkilani/welovereading221
+	url = git@github.com:zaidkilani/welovereading.git
+	branch = 8557
